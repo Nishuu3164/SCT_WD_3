@@ -1,4 +1,4 @@
-# StopWatch : SkillCraft internship task
+# Tic Tac Toe : SkillCraft internship task
 
 # Overview
 This project is an internship task for SkillCraft Technology for web development interns. 
