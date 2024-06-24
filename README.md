@@ -17,7 +17,7 @@ The goal is to create a stopwatch website that provides user to start, stop, res
 + **Javascript**
 
 # How to access
-Visit the live site: [Demo](https://Nishuu3164.github.io/SCT_WD_3)
+Visit the live site: [Tic Tac Toe](https://Nishuu3164.github.io/SCT_WD_3)
 
 # clone
 ```sh
