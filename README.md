@@ -2,7 +2,7 @@
 
 # Overview
 This project is an internship task for SkillCraft Technology for web development interns. 
-The goal is to create a stopwatch website that provides user to start, stop, resume or reset an stopwatch timer.
+The goal is to create a tic tac toe website.
 
 # Features
 + **Interactive Game Grid**: A 3x3 grid where players can click to place their Xs and Os. Make sure it's responsive and visually appealing.
